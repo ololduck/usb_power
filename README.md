@@ -1,4 +1,4 @@
-# USB pwoer
+# USB power
 
 Dead simple usb power board.
 
